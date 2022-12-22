@@ -1,0 +1,13 @@
+{
+  "name": "switch-bot-api-types",
+  "version": "0.1.0",
+  "description": "API types for SwitchBot API",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "SwitchBot",
+    "API",
+    "TypeScript"
+  ],
+  "author": "cm-ayf <cm.ayf2734@gmail.com>",
+  "license": "MIT"
+}

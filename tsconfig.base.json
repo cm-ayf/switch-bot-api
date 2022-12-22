@@ -1,0 +1,11 @@
+{
+  "extends": "@tsconfig/strictest",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDir": ".",
+    "paths": {
+      "switch-bot-api-types": ["packages/switch-bot-api-types/src"],
+      "switch-bot-sdk": ["packages/switch-bot-sdk/src"]
+    }
+  }
+}
